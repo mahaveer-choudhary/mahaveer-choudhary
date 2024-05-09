@@ -5,11 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahaveer-choudhary" alt="mahaveer-choudhary" /></a> </p>
 
+- 🔭 I’m currently working on [Keylogger Detector](https://github.com/mahaveer-choudhary/keylogger-detector)
+
 - 🌱 I’m currently learning **Python, Web Development**
+
+- 👯 I’m looking to collaborate on [Keylogger Detector](https://github.com/mahaveer-choudhary/keylogger-detector)
+
+- 👨‍💻 All of my projects are available at [https://github.com/mahaveer-choudhary](https://github.com/mahaveer-choudhary)
 
 - 💬 Ask me about **Cyber Security**
 
 - 📫 How to reach me **mahaveerchoudhary3.6886@gmail.com**
+
+- ⚡ Fun fact **I'm very passionate about my learning skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
